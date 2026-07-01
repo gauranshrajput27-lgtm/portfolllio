@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+app/
+
+# Next.js build output (unused scaffolding)
+.next/
+out/
+build/
+
+# Production
+dist/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.eslintcache
+.stylelintcache
+
+# Test coverage
+coverage/
+
+# Misc
+*.pem
+.vercel
+.netlify
